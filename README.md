@@ -1,6 +1,6 @@
 - 👋 Hi there, my name's Vera (AKA Featherra)
 - 🌱 I'm studying software development, so since i'm still a student u won't see much on here yet
-- 💞️ I'd love to become a front end developer in the future
+- 💞️ I'd love to become a webdeveloper in the future
 - ✨ That's all, thanks for stopping by and have a nice day further!
 
 <!---
