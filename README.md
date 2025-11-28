@@ -2,6 +2,7 @@
 - I'm studying software development, so since i'm still a student u won't see too much.
 - I'd love to become a webdeveloper in the future, and i've started creating my own little projects to learn more beside school.
    (Whenever I have time that is)
+- And yes that's my dog, his name is Duke 🔥
 - That's all, thanks for stopping by 🎉
 
 <!---
